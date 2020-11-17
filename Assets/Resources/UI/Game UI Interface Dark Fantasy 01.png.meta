@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: 0e83eebb8029c1649be7edf154fc15a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4071115330616291913
+    second: Game UI Interface Dark Fantasy 01_0
+  - first:
+      213: -3466226168708893392
+    second: Game UI Interface Dark Fantasy 01_1
+  - first:
+      213: 850381908302721825
+    second: Game UI Interface Dark Fantasy 01_2
+  - first:
+      213: -9091380787346222713
+    second: Game UI Interface Dark Fantasy 01_3
+  - first:
+      213: 3417072208294660018
+    second: Game UI Interface Dark Fantasy 01_4
+  - first:
+      213: 8078791228968823718
+    second: Game UI Interface Dark Fantasy 01_5
+  - first:
+      213: -8656407580678743712
+    second: Game UI Interface Dark Fantasy 01_6
+  - first:
+      213: -5390303697631443313
+    second: Game UI Interface Dark Fantasy 01_7
+  - first:
+      213: -6037819484206765273
+    second: Game UI Interface Dark Fantasy 01_8
+  - first:
+      213: -6608608233357832315
+    second: Game UI Interface Dark Fantasy 01_9
+  - first:
+      213: -4679210800270874165
+    second: Game UI Interface Dark Fantasy 01_10
+  - first:
+      213: -2956226081800671544
+    second: Game UI Interface Dark Fantasy 01_11
+  - first:
+      213: 8316321431040795380
+    second: Game UI Interface Dark Fantasy 01_12
+  - first:
+      213: -7579497926211684881
+    second: Game UI Interface Dark Fantasy 01_13
+  - first:
+      213: 1050932491998386955
+    second: Game UI Interface Dark Fantasy 01_14
+  - first:
+      213: 7136961543784592909
+    second: Game UI Interface Dark Fantasy 01_15
+  - first:
+      213: 1224688158983477850
+    second: Game UI Interface Dark Fantasy 01_16
+  - first:
+      213: 5620153652738751120
+    second: Game UI Interface Dark Fantasy 01_17
+  - first:
+      213: 5882311570417154087
+    second: Game UI Interface Dark Fantasy 01_18
+  - first:
+      213: -3865867621408173275
+    second: Game UI Interface Dark Fantasy 01_19
+  - first:
+      213: -6107362378281368812
+    second: Game UI Interface Dark Fantasy 01_20
+  - first:
+      213: 551208717949356443
+    second: Game UI Interface Dark Fantasy 01_21
+  - first:
+      213: -8805136519610646081
+    second: Game UI Interface Dark Fantasy 01_22
+  - first:
+      213: -4777759437064738971
+    second: Game UI Interface Dark Fantasy 01_23
+  - first:
+      213: 6340354238899471912
+    second: Game UI Interface Dark Fantasy 01_24
+  - first:
+      213: 1153145545791886564
+    second: Game UI Interface Dark Fantasy 01_25
+  - first:
+      213: 3417994709490593870
+    second: Game UI Interface Dark Fantasy 01_26
+  - first:
+      213: -1967839429659994274
+    second: Game UI Interface Dark Fantasy 01_27
+  - first:
+      213: -8157386259263625609
+    second: Game UI Interface Dark Fantasy 01_28
+  - first:
+      213: -8303334392322232808
+    second: Game UI Interface Dark Fantasy 01_29
+  - first:
+      213: 8524191631189593340
+    second: Game UI Interface Dark Fantasy 01_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 631
+        width: 615
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31409be039c45b9438b41a49aee4afaf
+      internalID: -4071115330616291913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_1
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 932
+        width: 486
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d71c2b9c93e7142b2b463ec4e25260
+      internalID: -3466226168708893392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_2
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 938
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9da5395cde844f409ad40baf9125a6b
+      internalID: 850381908302721825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_3
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 627
+        width: 550
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2211a4990e9c654d9f343bdb25c5319
+      internalID: -9091380787346222713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_4
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 919
+        width: 318
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705a0fcb2f42de345b243b643dcab46b
+      internalID: 3417072208294660018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_5
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 858
+        width: 214
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048cd24201b596c4bb17aa2171863880
+      internalID: 8078791228968823718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_6
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 858
+        width: 214
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673a7d921f470924fa39c4207217efe6
+      internalID: -8656407580678743712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_7
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 785
+        width: 214
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf27e5d2dfaf4034283d101400a5e094
+      internalID: -5390303697631443313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_8
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 785
+        width: 214
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa8f78c2665d96478ce480f577fe1ca
+      internalID: -6037819484206765273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_9
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 691
+        width: 214
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69912b2f1a9cdb446b76b7b68839d433
+      internalID: -6608608233357832315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_10
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 691
+        width: 214
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2978f2ac4f36c47a381969b4695368
+      internalID: -4679210800270874165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_11
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 619
+        width: 214
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfa99db88ff6aa49a947fbc900a9391
+      internalID: -2956226081800671544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_12
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 618
+        width: 214
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c494afd1b867f245a81291e900ffea2
+      internalID: 8316321431040795380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 484
+        width: 976
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9140918964d4e46aafd7d6b4a07907
+      internalID: -7579497926211684881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_14
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 454
+        width: 551
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59713b7cbee708346a4925b2972d226d
+      internalID: 1050932491998386955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_15
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 566
+        width: 318
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcab4b6a8c130e34ea8cafa23f656c43
+      internalID: 7136961543784592909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 412
+        width: 901
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304ad3579641df0458f2f8f86819ab89
+      internalID: 1224688158983477850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_17
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 322
+        width: 407
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b2e41bc1ecdaa4e80f18063bfcb4ce
+      internalID: 5620153652738751120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_18
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 322
+        width: 965
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592d192681a7feb4e938ac60be81b2eb
+      internalID: 5882311570417154087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 162
+        width: 494
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142d09c3026585f499e4b7423d7cead9
+      internalID: -3865867621408173275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_20
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 168
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd4f757f68f55b4288b705723a7a9d7
+      internalID: -6107362378281368812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_21
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 168
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb460785e1c480345b47a8311c1f79fe
+      internalID: 551208717949356443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_22
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 168
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3fdfde59688f44889d0dbafbca0632
+      internalID: -8805136519610646081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_23
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 168
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da272821edc6bb44da94bcd4e05d4eab
+      internalID: -4777759437064738971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_24
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 168
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b4499e73d3e5b4c81bcab0e3ea449e
+      internalID: 6340354238899471912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_25
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 168
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f1e085e23df9f429456fddcd4e7232
+      internalID: 1153145545791886564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_26
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 168
+        width: 169
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d3e3cbe22fe1f468608dffd43c91b1
+      internalID: 3417994709490593870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_27
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 85
+        width: 169
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aa3b787154a5742a60b9549ec88d6f
+      internalID: -1967839429659994274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_28
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 85
+        width: 270
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a15f6df20287fe4d849223b204f5e8e
+      internalID: -8157386259263625609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_29
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 85
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa28a60372defa4499bafa3615c1e766
+      internalID: -8303334392322232808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game UI Interface Dark Fantasy 01_30
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 85
+        width: 270
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7cc7581d71f514e8d6874498551e4a
+      internalID: 8524191631189593340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e8e8dbdccdc8a7f4a990bfc776919bb3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
